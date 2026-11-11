@@ -116,7 +116,7 @@ evals/
 
 ## Find Me
 
-- [X / Twitter](https://x.com/simonwongio)
+- [X / Twitter](https://x.com/simon_wong)
 - [GitHub](https://github.com/simonwong)
 
 ## License

@@ -2,7 +2,7 @@
 
 # simonwong/writing-skills
 
-**一组日常使用的简体中文写作 Agent Skills**
+**一组日常使用的写作 Agent Skills**
 
 小、可编辑、可组合，不接管完整工作流。选择需要的 skill，装进自己的 agent 即可。
 

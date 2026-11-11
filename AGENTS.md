@@ -2,7 +2,7 @@
 
 ## Repository
 
-This repository contains Simplified Chinese writing skills. Each skill is standalone; the only shared runtime data is the author's writing-style archive (see 个人风格).
+This repository contains writing skills. Each skill is standalone; the only shared runtime data is the author's writing-style archive (see 个人风格).
 
 Each skill lives at `skills/<skill-name>/`. Keep its `SKILL.md` and supporting resources together. Test cases live at `evals/<skill-name>/` and are not installed with the skill.
 

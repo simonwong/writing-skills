@@ -1,0 +1,7 @@
+interface:
+  display_name: "Writing Style Setup"
+  short_description: "建写作风格档案并写入项目指向"
+  default_prompt: "Use $writing-style-setup 建写作风格档案。"
+
+policy:
+  allow_implicit_invocation: false

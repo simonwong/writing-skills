@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex Cover Gen"
+  short_description: "从文章提取封面关键词，按 playbook 和 style 用 image_gen 生成封面"
+  default_prompt: "使用 $codex-cover-gen 从这篇文章提取封面关键词，并用 image_gen 生成公众号封面。"
+
+policy:
+  allow_implicit_invocation: true

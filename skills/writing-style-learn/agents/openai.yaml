@@ -1,0 +1,7 @@
+interface:
+  display_name: "Writing Style Learn"
+  short_description: "把作者的改稿和亲笔稿写进风格档案并整理"
+  default_prompt: "Use $writing-style-learn 处理风格档案里的候选。"
+
+policy:
+  allow_implicit_invocation: false
